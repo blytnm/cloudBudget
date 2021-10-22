@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ecadcc9-e17b-40af-ae68-ccd7c1a2e5ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cloudBudget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/features/Bg (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/features/Bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/features/Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/secure-p-1 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/header/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hero/Bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slider/Video_bg (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slider/Video_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/slider/Video_bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/technology/ant-design_cloud-download-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/technology/ant-design_security-scan-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/technology/iwwa-file-csv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/technology/iwwa-file-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/video/PlaySolid(F5B0).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/video/Video_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/carousel/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/carousel/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/fancybox/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/fancybox/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/jquery/jquery.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yTdCU26Vei0yLZIE7CbXkkSIDM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\features" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\video" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\hero" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ecadcc9-e17b-40af-ae68-ccd7c1a2e5ef" name="Default Changelist" comment="" />
+      <created>1632279384673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632279384673</updated>
+      <workItem from="1632279385817" duration="2975000" />
+      <workItem from="1632305423848" duration="3000" />
+      <workItem from="1632449746060" duration="1532000" />
+      <workItem from="1632451361621" duration="2867000" />
+      <workItem from="1632456910226" duration="148000" />
+      <workItem from="1632709223259" duration="5197000" />
+      <workItem from="1632717083086" duration="8000" />
+      <workItem from="1632882394928" duration="4649000" />
+      <workItem from="1632898950305" duration="13000" />
+      <workItem from="1634102905111" duration="74000" />
+      <workItem from="1634535719737" duration="1719000" />
+      <workItem from="1634538311932" duration="34000" />
+      <workItem from="1634707544268" duration="1411000" />
+      <workItem from="1634709561208" duration="1536000" />
+      <workItem from="1634736085554" duration="30000" />
+      <workItem from="1634879959575" duration="1391000" />
+      <workItem from="1634881661427" duration="1354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
